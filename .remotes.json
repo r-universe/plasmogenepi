@@ -1,0 +1,14 @@
+[
+  {
+    "package": "dde",
+    "url": "https://github.com/mrc-ide/dde",
+    "via": ["magenta"],
+    "from": "magenta"
+  },
+  {
+    "package": "odin",
+    "url": "https://github.com/mrc-ide/odin",
+    "via": ["magenta"],
+    "from": "magenta"
+  }
+]
