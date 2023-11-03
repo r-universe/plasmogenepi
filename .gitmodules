@@ -11,6 +11,9 @@
 [submodule "McCOILR"]
 	path = McCOILR
 	url = https://github.com/OJWatson/McCOILR
+[submodule "coiaf"]
+	path = coiaf
+	url = https://github.com/bailey-lab/coiaf
 [submodule "dcifer"]
 	path = dcifer
 	url = https://github.com/eppicenter/dcifer
