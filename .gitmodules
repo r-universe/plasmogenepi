@@ -2,12 +2,21 @@
 	path = .registry
 	url = https://github.com/plasmogenepi/plasmogenepi.r-universe.dev
 	branch = HEAD
+[submodule "DEploid"]
+	path = DEploid
+	url = https://github.com/DEploid-dev/DEploid-r
+[submodule "MALECOT"]
+	path = MALECOT
+	url = https://github.com/bobverity/MALECOT
 [submodule "dcifer"]
 	path = dcifer
 	url = https://github.com/eppicenter/dcifer
-[submodule "malecot"]
-	path = malecot
-	url = https://github.com/bobverity/MALECOT
+[submodule "isoRelate"]
+	path = isoRelate
+	url = https://github.com/bahlolab/isoRelate
 [submodule "moire"]
 	path = moire
 	url = https://github.com/eppicenter/moire
+[submodule "paneljudge"]
+	path = paneljudge
+	url = https://github.com/aimeertaylor/paneljudge
