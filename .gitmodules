@@ -8,6 +8,9 @@
 [submodule "MALECOT"]
 	path = MALECOT
 	url = https://github.com/bobverity/MALECOT
+[submodule "McCOILR"]
+	path = McCOILR
+	url = https://github.com/OJWatson/McCOILR
 [submodule "dcifer"]
 	path = dcifer
 	url = https://github.com/eppicenter/dcifer
