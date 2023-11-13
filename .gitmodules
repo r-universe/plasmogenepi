@@ -42,6 +42,10 @@
 [submodule "discent"]
 	path = discent
 	url = https://github.com/nickbrazeau/discent
+[submodule "goodegg"]
+	path = goodegg
+	url = https://github.com/nickbrazeau/goodegg
+	registered = false
 [submodule "hmmibdr"]
 	path = hmmibdr
 	url = https://github.com/OJWatson/hmmibdr

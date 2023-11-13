@@ -6,6 +6,12 @@
     "from": "magenta"
   },
   {
+    "package": "goodegg",
+    "url": "https://github.com/nickbrazeau/goodegg",
+    "via": ["polySimIBD"],
+    "from": "polySimIBD"
+  },
+  {
     "package": "odin",
     "url": "https://github.com/mrc-ide/odin",
     "via": ["magenta"],
