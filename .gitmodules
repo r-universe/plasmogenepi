@@ -5,24 +5,63 @@
 [submodule "DEploid"]
 	path = DEploid
 	url = https://github.com/DEploid-dev/DEploid-r
+[submodule "DRpower"]
+	path = DRpower
+	url = https://github.com/mrc-ide/DRpower
+[submodule "FreqEstimationModel"]
+	path = FreqEstimationModel
+	url = https://github.com/aimeertaylor/FreqEstimationModel
 [submodule "MALECOT"]
 	path = MALECOT
 	url = https://github.com/bobverity/MALECOT
+[submodule "MIPanalyzer"]
+	path = MIPanalyzer
+	url = https://github.com/mrc-ide/MIPanalyzer
 [submodule "McCOILR"]
 	path = McCOILR
 	url = https://github.com/OJWatson/McCOILR
+[submodule "PlasmoSim"]
+	path = PlasmoSim
+	url = https://github.com/mrc-ide/PlasmoSim
+[submodule "Pv3Rs"]
+	path = Pv3Rs
+	url = https://github.com/aimeertaylor/Pv3Rs
+[submodule "SIMPLEGEN"]
+	path = SIMPLEGEN
+	url = https://github.com/mrc-ide/SIMPLEGEN
 [submodule "coiaf"]
 	path = coiaf
 	url = https://github.com/bailey-lab/coiaf
 [submodule "dcifer"]
 	path = dcifer
 	url = https://github.com/eppicenter/dcifer
+[submodule "discent"]
+	path = discent
+	url = https://github.com/nickbrazeau/discent
+[submodule "hmmibdr"]
+	path = hmmibdr
+	url = https://github.com/OJWatson/hmmibdr
+[submodule "hrp2malaRia"]
+	path = hrp2malaRia
+	url = https://github.com/OJWatson/hrp2malaRia
 [submodule "isoRelate"]
 	path = isoRelate
 	url = https://github.com/bahlolab/isoRelate
+[submodule "magenta"]
+	path = magenta
+	url = https://github.com/OJWatson/magenta
+[submodule "moimix"]
+	path = moimix
+	url = https://github.com/bahlolab/moimix
 [submodule "moire"]
 	path = moire
 	url = https://github.com/eppicenter/moire
 [submodule "paneljudge"]
 	path = paneljudge
 	url = https://github.com/aimeertaylor/paneljudge
+[submodule "pixelate"]
+	path = pixelate
+	url = https://github.com/aimeertaylor/pixelate
+[submodule "polySimIBD"]
+	path = polySimIBD
+	url = https://github.com/nickbrazeau/polySimIBD
