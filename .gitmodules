@@ -20,6 +20,9 @@
 [submodule "McCOILR"]
 	path = McCOILR
 	url = https://github.com/OJWatson/McCOILR
+[submodule "PGEhammer"]
+	path = PGEhammer
+	url = https://github.com/mrc-ide/PGEhammer
 [submodule "PlasmoSim"]
 	path = PlasmoSim
 	url = https://github.com/mrc-ide/PlasmoSim
