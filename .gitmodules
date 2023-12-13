@@ -80,6 +80,9 @@
 [submodule "pixelate"]
 	path = pixelate
 	url = https://github.com/aimeertaylor/pixelate
+[submodule "pixelate.fork"]
+	path = pixelate.fork
+	url = https://github.com/bobverity/pixelate
 [submodule "polySimIBD"]
 	path = polySimIBD
 	url = https://github.com/nickbrazeau/polySimIBD
