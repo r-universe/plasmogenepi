@@ -49,6 +49,9 @@
 	path = goodegg
 	url = https://github.com/nickbrazeau/goodegg
 	registered = false
+[submodule "hierfstat"]
+	path = hierfstat
+	url = https://github.com/jgx65/hierfstat
 [submodule "hmmibdr"]
 	path = hmmibdr
 	url = https://github.com/OJWatson/hmmibdr
