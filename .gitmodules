@@ -86,3 +86,6 @@
 [submodule "polySimIBD"]
 	path = polySimIBD
 	url = https://github.com/nickbrazeau/polySimIBD
+[submodule "variantstring"]
+	path = variantstring
+	url = https://github.com/mrc-ide/variantstring
