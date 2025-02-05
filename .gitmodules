@@ -64,6 +64,9 @@
 [submodule "magenta"]
 	path = magenta
 	url = https://github.com/OJWatson/magenta
+[submodule "malaria.em"]
+	path = malaria.em
+	url = https://github.com/PlasmoGenEpi/malaria.em
 [submodule "moimix"]
 	path = moimix
 	url = https://github.com/bahlolab/moimix
