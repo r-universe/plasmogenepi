@@ -89,6 +89,9 @@
 [submodule "polySimIBD"]
 	path = polySimIBD
 	url = https://github.com/nickbrazeau/polySimIBD
+[submodule "snp.slicer"]
+	path = snp.slicer
+	url = https://github.com/PlasmoGenEpi/snp.slicer
 [submodule "variantstring"]
 	path = variantstring
 	url = https://github.com/mrc-ide/variantstring
