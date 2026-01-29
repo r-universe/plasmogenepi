@@ -38,17 +38,9 @@
 [submodule "dcifer"]
 	path = dcifer
 	url = https://github.com/eppicenter/dcifer
-[submodule "dde"]
-	path = dde
-	url = https://github.com/mrc-ide/dde
-	registered = false
 [submodule "discent"]
 	path = discent
 	url = https://github.com/nickbrazeau/discent
-[submodule "goodegg"]
-	path = goodegg
-	url = https://github.com/nickbrazeau/goodegg
-	registered = false
 [submodule "hierfstat"]
 	path = hierfstat
 	url = https://github.com/jgx65/hierfstat
@@ -73,10 +65,6 @@
 [submodule "moire"]
 	path = moire
 	url = https://github.com/eppicenter/moire
-[submodule "odin"]
-	path = odin
-	url = https://github.com/mrc-ide/odin
-	registered = false
 [submodule "paneljudge"]
 	path = paneljudge
 	url = https://github.com/aimeertaylor/paneljudge
